@@ -1,3 +1,11 @@
+/*
+Utilizando divide y venceras 
+
+Dado una matriz de enteros, encuentre la suma máxima entre todos los subarreglos posibles. Los subconjuntos deben ocupar posiciones consecutivas en el conjunto original.
+
+Numeros[] = {2, -4, 1, 9, -6, 7, -3}
+*/
+
 #include <iostream>
 #include <climits>
 #include <vector>
